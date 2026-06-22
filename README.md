@@ -25,4 +25,4 @@ A responsive calculator web application built using HTML, CSS, and JavaScript.
 
 ## Repository
 
-SCT_WD_2
+OIBSIP_LEVEL2_TASK1_Calculator
